@@ -12,7 +12,8 @@
     "dist/",
     "ios/Plugin/",
     "electron/",
-    "CapacitorCommunitySqlite.podspec"
+    "CapacitorCommunitySqlite.podspec",
+    "src/"
   ],
   "author": "Jean Pierre Quéau",
   "license": "MIT",
